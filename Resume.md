@@ -2,6 +2,7 @@
 ===============
 
 1819 NW Central Pl. Apt 208, Seattle, WA 98107
+  
 julia.meier@gmail.com  (917) 628-0560
 
 -
