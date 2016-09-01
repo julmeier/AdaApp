@@ -2,9 +2,9 @@
 ===============
 
 1819 NW Central Pl. Apt 208, Seattle, WA 98107
-
 julia.meier@gmail.com  (917) 628-0560
 
+-
 **EDUCATION &amp; CERTIFICATIONS**
 
 - B.S., Environmental &amp; Biological Engineering; Cornell University, College of Engineering; Ithaca, NY (2005)
@@ -12,10 +12,10 @@ julia.meier@gmail.com  (917) 628-0560
 - Solar Electric Systems coursework; Solar Energy Institute (SEI); Peonia, CO (2012)
 - Database Management coursework; University of Washington; Seattle, WA (2012-2013)
 
+-
 **PROFESSIONAL EXPERIENCE**
 
 **Pacific Northwest Marketing and Proposal Coordinator** , SWCA Environmental Consultants; Seattle, WA (2014 – Ongoing)
-
 - Supports and leads marketing efforts and business strategies for 50 cultural and natural resources and planning specialists in the Portland and Seattle offices.
 - Collaborates with fellow marketing coordinators to support 31 offices and 850+ employees.
 - Attends pre-proposal and business development meetings and networking events in Washington and Oregon.
@@ -29,8 +29,11 @@ julia.meier@gmail.com  (917) 628-0560
 - Interviews technical staff to understand and communicate scientific principals and work processes, including archaeological field technicians, architectural historians, GIS specialists, wetlands scientists, environmental planners and other experts.
 - Develops substantive original content for individual proposals and marking publications.
 
-**Project Engineer** , DNV GL (formerly DNV); Seattle, WA (2007 – 2011)
+**Swim Therapist** , Orca Swim School; Seattle, WA (2013 – 2014)
+- Taught group and one-on-one classes to help adults conquer their fear of water through mindfulness, discussion, exploration and play.
+- Facilitated on-deck lessons and group discussions, and created an emotionally and physically safe space.
 
+**Project Engineer** , DNV GL (formerly DNV); Seattle, WA (2007 – 2011)
 - Provided wind energy consulting services in the Feasibility Group at an international risk management firm.
 - Collaborated with departments (data collection, energy assessment, meteorological tower installation, turbine engineering) to create concise and comprehensive feasibility analyses of potential wind projects.
 - Conducted data-gathering fieldwork throughout the U.S. and British Columbia to site met towers, assess project terrain, validate long-term wind data sources, and collect data for visual impact, shadow flicker and sound impact analyses.
@@ -46,7 +49,6 @@ julia.meier@gmail.com  (917) 628-0560
 
 
 **Board Vice President,** Ten Thousand Villages Seattle; Seattle, WA (2012 – Ongoing)
-
 - Chaired first and second annual fundraising galas and raised over $60,000.
 - Leads grant applications and annual reporting.
 - Works closely with the Executive Board and Executive Director to balance day-to-day needs and long term organizational vision.
@@ -57,47 +59,36 @@ julia.meier@gmail.com  (917) 628-0560
 - Executes event advertising and volunteer-recruitment campaigns.
 
 **Visiting Lecturer &amp; Volunteer,** The Island School; Bahamas (September 2010)
-
 - Lectured on wind energy for a high school program focused on environmental sustainability.
 
 **Project Engineer,** ALC Environmental, Inc.; New York, NY (2006 – 2007)
-
 - Independently conducted Environmental Assessments, requiring short turn-around and comprehensive reporting, for projects throughout the New England region.
 
 **Solar Decathlon Team Member** , Cornell University; Ithaca, NY (2004 – 2005)
-
 - Performed technology and industry research, with an emphasis on energy efficient lighting, for a national college competition to build a solar house and showcase on the National Mall.
 
 **Intern,** United States Geological Survey (USGS); Ithaca, NY (Summer 2004)
-
 - Conducted stream surveys and participated in scientific research.
 
 **Administrator,** Magnusson Architecture &amp; Planning, PC; New York, NY (2003)
-
 - Sole administrator for architecture firm specializing in sustainable community development.
 
+-
 **TECHNOLOGICAL EXPERIENCE**
 
-|
-- GIS analysis (Global Mapper, ArcGIS)
+- GIS analysis (Global Mapper)
 - Microsoft Word, Excel, PowerPoint, Sharepoint
 - Database management (Visio, SQL, Access)
-  |
 - Programming languages (Java)
 - Graphic Design (Illustrator, InDesign, Photoshop)
 - Windows and Apple platforms
-  |
-| --- | --- |
-
-**ADDITIONAL QUALIFICATIONS**
-
-- Significant international travel and logistics experience
-- Conversational Spanish and German
-- Dual-citizenship (Switzerland and U.S.A.)
 
 -
+**ADDITIONAL QUALIFICATIONS**
+- Conversational Spanish and German
 
-- **REFERENCES**
+
+**REFERENCES**
 
 - Tanya Johnson, former Regional Principal, SWCA Environmental Consultants; (801) 528-2345
 - Lorelea Hudson, Senior Archaeologist, SWCA Environmental Consultants; lhudson@swca.com; (206) 353-8588
