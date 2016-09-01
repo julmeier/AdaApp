@@ -78,8 +78,8 @@ julia.meier@gmail.com  (917) 628-0560
 
 - GIS analysis (Global Mapper)
 - Microsoft Word, Excel, PowerPoint, Sharepoint
-- Database management (Visio, SQL, Access)
-- Programming languages (Java)
+- Database management (Visio, SQL)
+- Programming (Java)
 - Graphic Design (Illustrator, InDesign, Photoshop)
 - Windows and Apple platforms
 
@@ -87,7 +87,7 @@ julia.meier@gmail.com  (917) 628-0560
 **ADDITIONAL QUALIFICATIONS**
 - Conversational Spanish and German
 
-
+-
 **REFERENCES**
 
 - Tanya Johnson, former Regional Principal, SWCA Environmental Consultants; (801) 528-2345
