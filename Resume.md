@@ -33,6 +33,7 @@ julia.meier@gmail.com  (917) 628-0560
 **Swim Therapist** , Orca Swim School; Seattle, WA (2013 – 2014)
 - Taught group and one-on-one classes to help adults conquer their fear of water through mindfulness, discussion, exploration and play.
 - Facilitated on-deck lessons and group discussions, and created an emotionally and physically safe space.
+- Worked with diverse groups of adults of all ages, ethnicities and backgrounds
 
 **Project Engineer** , DNV GL (formerly DNV); Seattle, WA (2007 – 2011)
 - Provided wind energy consulting services in the Feasibility Group at an international risk management firm.
