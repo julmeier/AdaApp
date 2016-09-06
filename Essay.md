@@ -1,4 +1,4 @@
-#1. Why are you interested in programming? What have you done to expose yourself to programming so far?#
+##1. Why are you interested in programming? What have you done to expose yourself to programming so far?##
 
 I am interested in programming because I&#39;m interested in the problems it can solve in industries that I would like to contribute to. Throughout my education and career, I have chosen a common thread of helping both people and the environment and my goal is to improve products that benefit both. My education and career have focused on renewable energy and I enjoyed working as a wind energy consultant for 5 years and environmental consultant for 2.5 years in Seattle. I am also motivated by social and environmental justice causes, and actively volunteer on the board of a non-profit organization supporting fair trade education and sales for the past 5 years.
 
@@ -8,7 +8,7 @@ My first exposure to programming was a required college course in Java in my Jun
 
 
 
-#2. If you are accepted into our program, where do you see your career in 5 years?#
+##2. If you are accepted into our program, where do you see your career in 5 years?##
 
 In 5 years, I see myself in a programming job in private industry or a public utility creating tools to assist sustainability sectors. For example, I would welcome the opportunity to return the world of renewable energy or energy efficiency. Sustainability is a crucial topic especially in the face of climate change and overpopulation, and with it, the long-held assumptions about available resources. I would like to lead problem solving, develop new and creative ideas, and work with others. If accepted into Ada, I see many potential paths, and am open to the opportunities that may present themselves, as industries change and evolve.
 
@@ -16,19 +16,19 @@ Most of all, I would like to work as part of a team to create solutions for sust
 
 
 
-#3. After reading Ada&#39;s Vision, Mission and Inclusivity Statement, how will you contribute to Ada&#39;s vision for an inclusive and diverse community? [http://adadevelopersacademy.org/program](http://adadevelopersacademy.org/program)#
+##3. After reading Ada&#39;s Vision, Mission and Inclusivity Statement, how will you contribute to Ada&#39;s vision for an inclusive and diverse community? [http://adadevelopersacademy.org/program](http://adadevelopersacademy.org/program)##
 
 I see Ada as a program at which I would thrive and grow. I am drawn to the emphasis on inclusivity and learning to understand our and other&#39;s unconscious biases. I want to learn programming in a supportive and caring community and, in turn, create this learning environment for others.  This emphasis on inclusivity is not only critical to my own development in programming, but to the development of a healthier and stronger tech industry. I would welcome the opportunity to bring awareness to an industry that suffers from a lack of different perspectives.
 
 In the past few years, I have gained some close friends in the programming field several of whom are women. With the guidance of these friends, I&#39;ve started doing more reading and discussion about the gender imbalance in the tech and engineering world and it&#39;s anthropological influences¹. I&#39;ve learned about the shortcomings of our education systems, and the invisible social influences that alienate minorities. It&#39;s helped me to look inwards and discover why I have made my own personal choices. I can see myself in reading the case studies about high school girls feeling like they don&#39;t &quot;deserve&quot; or aren&#39;t &quot;meant&quot; for computer science, because they only see boys studying it, and those boys don&#39;t have many interests beyond computer science. I can relate to a common female sentiment that they want a career that helps people and involves working with others- but we are surrounded by programming students who self-isolate and don&#39;t talk to each other in class.
 
-I have been a Big Sister in the Big Brothers, Big Sisters program for over 7 years, and feel strongly about role models and support networks in girls&#39; lives. I often wonder if it would have taken me this long to discover my interest in programming if I myself had a Big Sister or other role model. It&#39;s important to me that we start working towards educational and social systems where girls and young women feel included and receive encouragement and support in programming and other technical disciplines. I hope I can provide this for other girls through mentorship and volunteering. I would also help to create this support community for myself by making time to get to know and work closely with my fellow Ada classmates, and actively seek out women-in-tech networking groups and conferences.
+I have been a Big Sister in the Big Brothers, Big Sisters program for over 6 years, and feel strongly about role models and support networks in girls&#39; lives. I often wonder if it would have taken me this long to discover my interest in programming if I myself had a Big Sister or other role model. It&#39;s important to me that we start working towards educational and social systems where girls and young women feel included and receive encouragement and support in programming and other technical disciplines. I hope I can provide this for other girls through mentorship and volunteering. I would also help to create this support community for myself by making time to get to know and work closely with my fellow Ada classmates, and actively seek out women-in-tech networking groups and conferences.
 
 _¹My favorite books so far are: &quot;Unlocking the Clubhouse: Women in Computing&quot; by Margolis and Fisher, and &quot;Reviving Ophelia: Saving the Selves of Adolescent Girls&quot; by Pipher._
 
 
 
-#4. Tell us about a time you made a mistake that you learned a lot from. If you encountered the situation again, what would you do differently?#
+##4. Tell us about a time you made a mistake that you learned a lot from. If you encountered the situation again, what would you do differently?##
 
 On a Wednesday morning in October 2011, I was at my desk at work, uploading my GPS data and photographs at my computer that I had collected at a potential wind site in Eastern Washington the day before. I was putting together a photo simulation to understand the potential visual impacts of a wind farm on surrounding properties. Suddenly, a calendar announcement popped into my inbox for a meeting in 15 minutes in the largest conference room, and I was the only invitee. That morning, I and 10% of my coworkers were laid off in the wake of the recession.
 
